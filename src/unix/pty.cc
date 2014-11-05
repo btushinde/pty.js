@@ -36,7 +36,7 @@
 #if NODE_VERSION_AT_LEAST(0, 10, 28)
 #include </usr/include/util.h>
 #else
-#include <util.h>
+#include </usr/include/util.h>
 #endif
 #elif defined(__FreeBSD__)
 #include <libutil.h>
